@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently preparing for **AWS Solutions Architect - Assosiate Exam**
 
+- 🤓 Interested in Serverless Application Model (AWS SAM) and Code Infrastructure (IaaC)
+
 - 📫 You can reach me on email:  **zhivkotomov97@icloud.com**
 
 <h3 align="left">Connect with me on social media:</h3>
